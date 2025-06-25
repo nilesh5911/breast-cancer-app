@@ -29,5 +29,5 @@ The app uses a **K-Nearest Neighbors (KNN)** classifier to make predictions. Use
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/breast-cancer-app.git
+   git clone https://github.com/nilesh5911/breast-cancer-app.git
    cd breast-cancer-app
