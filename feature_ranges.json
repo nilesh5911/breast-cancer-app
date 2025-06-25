@@ -1,0 +1,26 @@
+{
+  "Mean Radius": {
+    "min": 13.8,
+    "max": 20.0
+  },
+  "Mean Texture": {
+    "min": 14.4,
+    "max": 21.4
+  },
+  "Mean Perimeter": {
+    "min": 88.6,
+    "max": 132.4
+  },
+  "Mean Area": {
+    "min": 601.0,
+    "max": 1104.0
+  },
+  "Mean Smoothness": {
+    "min": 0.092,
+    "max": 0.105
+  },
+  "Mean Compactness": {
+    "min": 0.062,
+    "max": 0.122
+  }
+}
